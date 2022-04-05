@@ -1,1 +1,9 @@
 @use "nullstyles";
+@use "icons";
+
+// Подключение шрифтов
+// &display=swap&subset=cyrillic-ext
+@import url("https://fonts.googleapis.com/css?family=Heebo:regular,500,700,900&display=swap");
+
+// Шрифт по умолчанию
+$fontFamily: "Heebo";
